@@ -33,7 +33,7 @@ Se ejecuta en la consola y se muestra un menu con las siguientes opciones:
 **Credenciales de admin**:
 - Usuario: `admin`
 - Contraseña: `1234`
-## Integrantes:
+## Integrantes
 - Bruno Emanuel Fernandez
 - Ian Franco Manfredi
 - Alejo Elias Petricio
